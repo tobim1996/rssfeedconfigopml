@@ -1,2 +1,2 @@
 # rssfeedconfigopml
-RSS Feed Configuration OPML
+Meine Eigene RSS Feed Config für Speicherzwecke abgespeichert und zur Versionierung
